@@ -35,8 +35,6 @@ PartyM is a modern web application built for making reservations in restaurants 
 ### Homepage
 ![Homepage](screenshots/index.png)
 
-### Reservation
-![Reservation Page](screenshots/rez.jpg)
 
 ### Restaurant Manager page for upcoming reservations
 ![Manager](screenshots/menadzer.png)
